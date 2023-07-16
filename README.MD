@@ -54,3 +54,6 @@ Este video juego es para alumnos de primer grado de primaria :
 
 - niños y niñas a practicar con SUMA POLAR 
 
+
+En resumen, el proceso educativo de este juego de sumas incluye el viaje del personaje principal Polar de regreso a su hogar, implementación de sumas con el fin de seguir avanzado en la travesía lo cual motiva al alumno en seguir mejorando en las habilidades matemáticas de las sumas.
+
